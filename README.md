@@ -15,3 +15,8 @@ XPath更适合网页抓取，学习XPath
 Selenium （浏览器自动化测试框架）
 
 学习 scrapy框架
+http://www.cnblogs.com/wuxl360/p/5567631.html  
+
+Scrapy分布式爬虫之ES搜索引擎网站
+分享网盘地址——https://pan.baidu.com/s/1htA3zX6 密码: ebwm
+备用地址（腾讯微云）：http://url.cn/51n4soD 密码：SyRADx
